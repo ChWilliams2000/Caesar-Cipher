@@ -49,7 +49,6 @@ public class Caesar {
   }
 
   /**
-   *
    * @param args
    */
   public static void main(String[] args) {
@@ -105,7 +104,6 @@ public class Caesar {
   }
 
   /**
-   *
    * @param ePlainText
    * @param eKey
    * @return
@@ -133,7 +131,6 @@ public class Caesar {
   }
 
   /**
-   *
    * @param dCipherText
    * @param dKey
    * @return
@@ -161,7 +158,6 @@ public class Caesar {
   }
 
   /**
-   *
    * @param cipherText
    * @return
    */
@@ -174,7 +170,6 @@ public class Caesar {
   }
 
   /**
-   *
    * @param solutions
    * @return
    */
@@ -188,7 +183,6 @@ public class Caesar {
   }
 
   /**
-   *
    * @param string
    * @return
    */
@@ -207,7 +201,6 @@ public class Caesar {
   }
 
   /**
-   *
    * @param frequencies
    * @return
    */
@@ -222,7 +215,6 @@ public class Caesar {
   }
 
   /**
-   *
    * @param solutions
    */
   private static void printSolutions(String[] solutions) {
